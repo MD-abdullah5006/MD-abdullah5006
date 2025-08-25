@@ -16,13 +16,7 @@ Passionate developer dedicated to creating clean, efficient solutions to complex
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 <!-- Add or replace with your actual skills -->
 
-## 🏆 Projects
-### [Project Name 1](https://github.com/username/project1)
-Brief description of what this project does and what technologies were used.
 
-### [Project Name 2](https://github.com/username/project2)
-Brief description of what this project does and what technologies were used.
-<!-- Add your actual projects -->
 
 ## 📊 GitHub Stats
 <div align="center">
